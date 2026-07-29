@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a2a,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=BFAE99&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:537179,100:BFAE99&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:537179,100:BFAE99&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
 </picture>
 
 <h1 align="center">Hola 👋, soy Marcos Beteta</h1>
@@ -113,5 +113,5 @@ Desarrollador apasionado por crear aplicaciones web completas.
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:537179,100:BFAE99&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=120&section=footer" />
 </p>
