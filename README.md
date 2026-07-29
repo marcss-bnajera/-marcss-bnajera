@@ -4,11 +4,11 @@
   <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:818cf8,100:6366f1&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=1e1b4b&animation=fadeIn&fontAlignY=35">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Marcos Beteta</h1>
-<h3 align="center">A passionate Full Stack Developer from Peru 🇵🇪</h3>
+<h1 align="center">Hola 👋, soy Marcos Beteta</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Frontend;Always+Learning+New+Things" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Frontend;Siempre+Aprendiendo" alt="typing-svg" />
 </p>
 
 <!-- Contact -->
@@ -20,19 +20,19 @@
 
 <br>
 
-<h2>🧑‍💻 About Me</h2>
+<h2>🧑‍💻 Sobre Mí</h2>
 
-I'm a passionate developer focused on building full-stack web applications.
+Desarrollador apasionado por crear aplicaciones web completas.
 
-- 🔭 I'm currently working on personal projects to improve my skills
-- 🌱 I'm currently learning **TypeScript, NestJS, and Prisma**
-- 💬 Ask me about **Java, Spring Boot, JavaScript, React, Node.js**
-- 📫 Reach me at **marcosbeteta07@gmail.com**
-- ⚡ Fun fact: I love solving problems and automating tasks
+- 🔭 Actualmente trabajando en proyectos personales para mejorar mis habilidades
+- 🌱 Aprendiendo **TypeScript, NestJS y Prisma**
+- 💬 Pregúntame sobre **Java, Spring Boot, JavaScript, React, Node.js**
+- 📫 Contáctame en **marcosbeteta07@gmail.com**
+- ⚡ Dato curioso: Me encanta resolver problemas y automatizar tareas
 
 <br>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tecnologías</h2>
 
 <h3>Backend</h3>
 <p>
@@ -62,7 +62,7 @@ I'm a passionate developer focused on building full-stack web applications.
   </a>
 </p>
 
-<h3>Currently Learning 🌱</h3>
+<h3>Aprendiendo 🌱</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nestjs,prisma&perline=12" />
@@ -71,7 +71,7 @@ I'm a passionate developer focused on building full-stack web applications.
 
 <br>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Estadísticas de GitHub</h2>
 
 <p align="center">
 <table align="center">
@@ -100,7 +100,7 @@ I'm a passionate developer focused on building full-stack web applications.
 
 <br>
 
-<h2>🐍 Contribution Snake</h2>
+<h2>🐍 Serpiente de Contribuciones</h2>
 
 <p align="center">
   <picture>
