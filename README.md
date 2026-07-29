@@ -77,24 +77,24 @@ Desarrollador apasionado por crear aplicaciones web completas.
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcss-bnajera&theme=dark&hide_border=false" alt="marcss-bnajera" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=marcss-bnajera&theme=dark&hide_border=false" alt="marcss-bnajera" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcss-bnajera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="marcss-bnajera" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marcss-bnajera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="marcss-bnajera" />
 </td>
 </tr>
 </table>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcss-bnajera&show_icons=true&theme=dark&count_private=true" alt="marcss-bnajera" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcss-bnajera&show_icons=true&theme=dark&count_private=true" alt="marcss-bnajera" />
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=84% src="https://github-profile-trophy.vercel.app/?username=marcss-bnajera&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img width=84% src="https://github-profile-trophy-kappa.vercel.app/?username=marcss-bnajera&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </p>
 
