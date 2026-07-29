@@ -1,14 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=2c3e50&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35">
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Marcos%20Beteta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35">
 </picture>
 
 <h1 align="center">Hola 👋, soy Marcos Beteta</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=537179&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Frontend;Siempre+Aprendiendo" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Frontend;Siempre+Aprendiendo" alt="typing-svg" />
 </p>
 
 <!-- Contact -->
@@ -113,5 +113,5 @@ Desarrollador apasionado por crear aplicaciones web completas.
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFAE99,100:537179&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=footer" />
 </p>
